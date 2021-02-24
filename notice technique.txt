@@ -1,0 +1,32 @@
+Bonjour messieurs,
+
+Pour accéder à notre site, vous devez au préalable vous connecter avec le VPN
+de la faculté. Pour cela, nous avons joint une documentation dans le répertoire.
+
+Une fois connecté, voici l'URL pour accéder à notre site :
+10.1.20.206
+
+_____________________
+
+
+Vous possédez deux types de compte différents :
+
+- Un compte utilisateur :
+drupal_user
+user
+
+- Un compte administrateur :
+drupal_admin
+admin
+
+
+_____________________
+
+
+Pour mener à bien le projet, nous avons installé différents modules.
+Les voici :
+- LDAP Serveur
+- LDAP User
+- LDAP Authentification
+- Simple Google Maps
+- FA
